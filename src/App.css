@@ -1,0 +1,7 @@
+/* ./src/App.css */
+
+/*tailwind*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
